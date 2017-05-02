@@ -16,13 +16,13 @@
         "url"                       : "https://github.com/eventEmitter/ee-soa-testservice/issues"
     }
     , "dependencies": {
-          "ee-class"                : "1.0.x"
-        , "ee-log"                  : "0.2.x"
-        , "ee-soa-service"          : "0.1.x"
+          "ee-class"                : "~1.4.0"
+        , "ee-log"                  : "~2.0.2"
+        , "ee-soa-service"          : "~2.8.0"
     }
     , "devDependencies": {
-          "mocha"                   : "1.17.x"
-        , "ee-soa-service-manager"  : "0.1.x"
+          "mocha"                   : "~3.3.0"
+        , "ee-soa-service-manager"  : "~1.0.0"
         , "ee-soa-request"          : "0.2.x"
         , "ee-soa-response"         : "0.1.x"
     }
