@@ -1,5 +1,7 @@
 # ee-soa-testservice
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-testservice.svg)](https://greenkeeper.io/)
+
 service used for soa component testing
 
 ## installation
